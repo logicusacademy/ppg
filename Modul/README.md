@@ -1,18 +1,6 @@
 # Pelajari Modul
 
-## 1. Pembelajaran Mendalam dan Asesmen (Umum) 2.0
-### Pelatihan
-- Memahami pentingnya merancang pembelajaran yang berpihak pada kebutuhan dan keberagaman murid
-- Menguasai pendekatan Understanding by Design, pembelajaran berdiferensiasi, Teaching at the Right Level, dan Culturally Responsive Teaching
-- Melakukan evaluasi dan refleksi hasil praktik untuk menyusun rencana tindak lanjut pembelajaran
-
-### Pengayaan
-Dokumen ini adalah buku ajar yang Bapak/ibu bisa pelajari kembali untuk penguatan atas materi Pembelajaran Mendalam dan Asesmen (Umum).
-
-### Keterangan
-4 Unit Pembelajaran | 8 Hari
-
-## 2. Pembelajaran Sosial Emosional
+## 1. Pembelajaran Sosial Emosional
 ### Pelatihan
 - Memahami pentingnya Collaborative for Academic, Social, & Emotional Learning (CASEL) dalam pembelajaran
 - Memahami peran guru sebagai teladan dan bagaimana berkolaborasi dengan guru BK
@@ -25,7 +13,7 @@ Dokumen ini adalah buku ajar yang Bapak/ibu bisa pelajari kembali untuk penguata
 ### Keterangan
 4 Unit Pembelajaran | 6 Hari
 
-## 3. Filosofi Pendidikan dan Pendidikan Nilai
+## 2. Filosofi Pendidikan dan Pendidikan Nilai
 ### Pelatihan
 - Memahami filosofi pendidikan Indonesia
 - Menginternalisasi nilai-nilai ke-Indonesia-an dalam menjalankan tugas sebagai pendidik dan dalam kehidupan keseharian
@@ -36,3 +24,16 @@ Dokumen ini adalah buku ajar yang Bapak/ibu bisa pelajari kembali untuk penguata
 
 ### Keterangan
 3 Unit Pembelajaran | 4 Hari
+
+## 3. Pembelajaran Mendalam dan Asesmen (Umum) 2.0
+### Pelatihan
+- Memahami pentingnya merancang pembelajaran yang berpihak pada kebutuhan dan keberagaman murid
+- Menguasai pendekatan Understanding by Design, pembelajaran berdiferensiasi, Teaching at the Right Level, dan Culturally Responsive Teaching
+- Melakukan evaluasi dan refleksi hasil praktik untuk menyusun rencana tindak lanjut pembelajaran
+
+### Pengayaan
+Dokumen ini adalah buku ajar yang Bapak/ibu bisa pelajari kembali untuk penguatan atas materi Pembelajaran Mendalam dan Asesmen (Umum).
+
+### Keterangan
+4 Unit Pembelajaran | 8 Hari
+
