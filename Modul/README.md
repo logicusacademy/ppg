@@ -67,6 +67,26 @@ Urgensi Pendidikan Nilai
 * Peran Guru dalam Pendidikan Nilai
 * Komitmen Saya untuk Pendidikan Nilai
 
+#### 3. Kode Etik Guru, Apakah Perilaku Guru sebagai Pendidik Perlu Diatur?
+
+Tujuan Pembelajaran khusus setelah menyelesaikan Topik Kode Etik Guru, guru mampu:
+
+1. Menyadari pentingnya kode etik profesi sebagai panduan berperilaku pada semua profesi
+
+2. Memahami dan memegang teguh kode etik guru
+
+3. Menerapkan kode etik guru dalam menjalankan tugas mengajar
+
+##### Daftar Materi:
+
+* Apa Perlunya Kode Etik Profesi Untukku?
+* Apa Etika Dasar yang Harus Dijunjung Guru sebagai Pendidik?
+* Apa yang Dapat Aku Lakukan sebagai Guru?
+* Mari Kita Junjung Kode Etik Guru
+* Telaah Kasus Pelanggaran Kode Etik
+* Kode Etik dalam Kerangka Pendidikan Nilai
+* Mari Lakukan Aksi Nyata
+
 #### Langkah Penyelesaian Unit Pembelajaran
 * Belajar materi
 * Refleksi pembelajaran
