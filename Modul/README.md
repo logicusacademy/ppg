@@ -25,6 +25,37 @@ Dokumen ini adalah buku ajar yang Bapak/ibu bisa pelajari kembali untuk penguata
 ### Keterangan
 3 Unit Pembelajaran | 4 Hari
 
+
+### Unit Pembelajaran
+#### 1. Filsafat Pancasila dan Pemikiran Ki Hajar Dewantara sebagai Landasan Pendidikan Nasional
+Setelah menyelesaikan Topik Filsafat Pancasila dan Pemikiran Ki Hadjar Dewantara sebagai Landasan Pendidikan Nasional, guru mampu:
+
+1. Memahami filosofi pendidikan Indonesia berdasarkan pokok pemikiran Ki Hadjar Dewantara
+
+2. Memahami Filsafat Pancasila sebagai landasan filosofi pendidikan Indonesia
+
+3. Mengimplementasikan filosofi pendidikan Ki Hadjar Dewantara sebagai landasan dalam merancang pembelajaran
+
+4. Menyikapi keberagaman nilai yang muncul berlandaskan nilai-nilai ke-Indonesia-an.
+
+##### Daftar Materi:
+
+* Mengenal Diri Sendiri - Siapa Dirimu sebagai Guru?
+* Pendidikan yang Memerdekakan dan Berpihak pada Peserta Didik
+* Pancasila sebagai Landasan Filosofi Pendidikan Nasional
+* Penguatan Budi Pekerti melalui Tri Sentra Pendidikan
+* Mendidik sesuai dengan Kodrat Alam dan Kodrat Zaman
+* Bagaimana Mendidik secara Kontekstual
+* Menyikapi Keberagaman
+
+#### Langkah Penyelesaian Unit Pembelajaran
+* Belajar materi
+* Refleksi pembelajaran
+* Post Test
+
+#### Ditinjau oleh
+Direktorat PPG GTK
+
 ## 3. Pembelajaran Mendalam dan Asesmen (Umum) 2.0
 ### Pelatihan
 - Memahami pentingnya merancang pembelajaran yang berpihak pada kebutuhan dan keberagaman murid
