@@ -48,6 +48,25 @@ Setelah menyelesaikan Topik Filsafat Pancasila dan Pemikiran Ki Hadjar Dewantara
 * Bagaimana Mendidik secara Kontekstual
 * Menyikapi Keberagaman
 
+#### 2. Makna, Urgensi dan Strategi Internalisasi Pendidikan Nilai dalam Kerangka Pendidikan Nasional
+
+Setelah menyelesaikan Makna, Urgensi dan Strategi Internalisasi Pendidikan Nilai dalam Kerangka Pendidikan Nasional, guru mampu:
+
+1. Memahami Pendidikan Nilai sebagai pondasi karakter bangsa
+
+2. Memahami urgensi pendidikan nilai dalam menghadapi fenomena sosial dan tantangan global
+
+3. Mengimplementasikan strategi internalisasi dan pengembangan nilai dalam proses pembelajaran
+
+##### Daftar Materi:
+
+Urgensi Pendidikan Nilai
+* Nilai-nilai Dasar dalam Pendidikan
+* Strategi Internalisasi dan Pengembangan Nilai dalam Pembelajaran
+* Tujuh Kebiasaan Anak Indonesia Hebat
+* Peran Guru dalam Pendidikan Nilai
+* Komitmen Saya untuk Pendidikan Nilai
+
 #### Langkah Penyelesaian Unit Pembelajaran
 * Belajar materi
 * Refleksi pembelajaran
