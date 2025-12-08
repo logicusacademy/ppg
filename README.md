@@ -5,7 +5,7 @@ PPG bagi Guru Tertentu (Dalam Jabatan) bertujuan mewujudkan guru profesional, ko
 
 Pelaksanaan PPG bagi Guru Tertentu berfokus pada penuntasan sertifikasi bagi guru tertentu (dalam jabatan) yang lebih efektif sesuai dengan Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 19 Tahun 2024 tentang Pendidikan Profesi Guru.[[1](https://ppg.kemendikdasmen.go.id/ppg-guru-tertentu-2025)][[2](https://ppg.kemendikdasmen.go.id/news/permendikbudristek-nomor-19-tahun-2024-tentang-pendidikan-profesi-guru)]
 
-## Pembelajaran
+## Pembelajaran Mandiri
 
 ## Uji Kompetensi Peserta Pendidikan Profesi Guru (UKPPPG)
 
