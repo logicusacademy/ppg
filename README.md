@@ -13,4 +13,4 @@ Pelaksanaan PPG bagi Guru Tertentu berfokus pada penuntasan sertifikasi bagi gur
 
 UKPPPG adalah bagian dari proses sertifikasi guru yang bertujuan untuk memastikan kompetensi profesional calon guru dalam bidangnya masing-masing.
 
-
+## Referensi
