@@ -47,4 +47,16 @@ f. Perlakuan yang tepat kepada siswa yang menunjukkan perilaku yang semestinya k
 
 g. Kemampuan melakukan evaluasi dan umpan balik di akhir proses pembelajaran
 
+Alokasi waktu untuk UKin sebanyak 2 jam pelajaran yang durasinya disesuaikan dengan kebutuhan pembelajaran, termasuk pada guru PAUD/TK, pendidikan khusus, BK, dan mata pelajaran produktif SMK. Komponen UKin terbagi menjadi dua bagian yaitu:
+
+a. Penilaian Perangkat Pembelajaran
+
+Penilaian perangkat pembelajaran adalah penilaian terhadap perangkat pembelajaran yang mendukung proses dalam praktik pembelajaran berupa instrumen, dokumen, alat pembantu seperti peraga, termasuk di dalamnya Rancangan Pembelajaran/Modul Ajar/Rencana Pelaksanaan Layanan (untuk Bimbingan Konseling).
+
+Petunjuk Teknis Uji Kompetensi Peserta Pendidikan Profesi Guru bagi Guru Tertentu
+
+b. Penilaian Video Praktik Pembelajaran
+
+Penilaian video praktik pembelajaran adalah penilaian terhadap kompetensi peserta PPG dalam melaksanakan pembelajaran yang efektif di kelas, melalui praktik pembelajaran secara riil dan diunggah melalui platform ujian. Video praktik pembelajaran yang direkam dan diunggah bukan berasal dari video praktik saat PPL atau tugas perkuliahan lainnya. Adapun untuk penilaian praktik pembelajaran di Bimbingan dan Konseling dibuat menjadi 2 bagian yang terpisah yaitu video praktik layanan bimbingan klasikal dan video praktik layanan konseling individual.
+
 ## Referensi
