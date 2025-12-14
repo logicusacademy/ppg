@@ -7,10 +7,12 @@ Pelaksanaan PPG bagi Guru Tertentu berfokus pada penuntasan sertifikasi bagi gur
 
 ## Pembelajaran Mandiri
 
-## Uji Kinerja
-
 ## Uji Kompetensi Peserta Pendidikan Profesi Guru (UKPPPG)
 
 UKPPPG adalah bagian dari proses sertifikasi guru yang bertujuan untuk memastikan kompetensi profesional calon guru dalam bidangnya masing-masing.
+
+### 1. Ujian Tertulis (UTul)
+
+### 2. Ujian Kinerja (UKin)
 
 ## Referensi
