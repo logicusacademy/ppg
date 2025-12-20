@@ -25,7 +25,16 @@ a. Tes Objektif
 
 b. Tes Subjektif
 
-1) Tes subjektif bagi guru tertentu dilakukan dalam bentuk tes uraian reflektif, disajikan dalam 1 butir soal studi kasus terkait pembelajaran yang dilakukan guru di kelas. Tes ini untuk mengukur kompetensi dalam melakukan refleksi dalam melaksanakan tugas sebagai pendidik, terkait: (1) mengidentifikasi masalah yang pernah dihadapi, (2) upaya mengatasi masalah yang dihadapi, (3) hasil dari upaya yang dilakukan, dan (4) pengalaman berharga yang bisa digunakan untuk meningkatkan diri dalam melaksanakan tugas keprofesian guru.
+1) Tes subjektif bagi guru tertentu dilakukan dalam bentuk tes uraian reflektif, disajikan dalam 1 butir soal studi kasus terkait pembelajaran yang dilakukan guru di kelas. Tes ini untuk mengukur kompetensi dalam melakukan refleksi dalam melaksanakan tugas sebagai pendidik, terkait:
+  
+   (1) mengidentifikasi masalah yang pernah dihadapi,
+
+   (2) upaya mengatasi masalah yang dihadapi,
+
+   (3) hasil dari upaya yang dilakukan, dan
+
+   (4) pengalaman berharga yang bisa digunakan untuk meningkatkan diri dalam melaksanakan tugas keprofesian guru.
+   
 2) Tes subjektif merupakan subtes kedua dalam pelaksanaan Ujian Tertulis Berbasis Komputer (UTBK) dikerjakan langsung dalam aplikasi ujian pada Petunjuk Teknis Uji Kompetensi Peserta Pendidikan Profesi Guru bagi Guru Tertentu saat pelaksanaan UTBK dengan durasi waktu pengerjaan 30 menit pada akhir subtes setelah Tes Objektif selesai.
 3) Tes subjektif akan dinilai oleh penguji UKin pada saat periode penilaian dokumen Ujian Kinerja.
 
