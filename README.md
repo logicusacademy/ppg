@@ -67,3 +67,5 @@ b. Penilaian Video Praktik Pembelajaran
 Penilaian video praktik pembelajaran adalah penilaian terhadap kompetensi peserta PPG dalam melaksanakan pembelajaran yang efektif di kelas, melalui praktik pembelajaran secara riil dan diunggah melalui platform ujian. Video praktik pembelajaran yang direkam dan diunggah bukan berasal dari video praktik saat PPL atau tugas perkuliahan lainnya. Adapun untuk penilaian praktik pembelajaran di Bimbingan dan Konseling dibuat menjadi 2 bagian yang terpisah yaitu video praktik layanan bimbingan klasikal dan video praktik layanan konseling individual.
 
 ## Referensi
+
+
