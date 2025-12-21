@@ -15,7 +15,7 @@ Berikut penjelasan terkait Komponen UKPPPG yang terdiri dari Ujian Tertulis dan 
 
 ### 1. Ujian Tertulis
 
-Ujian Tertulis (UT) adalah ujian kompetensi yang dilaksanakan secara tertulis untuk menilai pengetahuan peserta PPG dalam mengelola pembelajaran untuk mencapai tujuan pembelajaran yang berpusat pada peserta didik. Ujian Tertulis dilaksanakan berbasis komputer (UTBK) secara serentak dalam jaringan atau daring (online) untuk menilai pengetahuan dan pemahaman peserta PPG dalam mengelola pembelajaran untuk mencapai tujuan pembelajaran yang berpusat pada peserta didik. Ujian Tertulis dilaksanakan dalam dua jenis, yaitu tes objektif dan tes subjektif:
+Ujian Tertulis adalah ujian kompetensi yang dilaksanakan secara tertulis untuk menilai pengetahuan peserta PPG dalam mengelola pembelajaran untuk mencapai tujuan pembelajaran yang berpusat pada peserta didik. Ujian Tertulis dilaksanakan berbasis komputer (UTBK) secara serentak dalam jaringan atau daring (online) untuk menilai pengetahuan dan pemahaman peserta PPG dalam mengelola pembelajaran untuk mencapai tujuan pembelajaran yang berpusat pada peserta didik. Ujian Tertulis dilaksanakan dalam dua jenis, yaitu tes objektif dan tes subjektif:
 
 a. Tes Objektif
 
