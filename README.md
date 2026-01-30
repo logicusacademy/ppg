@@ -1,7 +1,7 @@
 # ppg
 Pendidikan Profesi Guru (PPG) Bagi Guru Tertentu Tahap 5 Tahun 2025
 
-Program Pendidikan Profesi Guru (PPG) merupakan Rencana Strategis Kemendikdasmen untuk memperkuat kualitas pendidik, memastikan ketersediaan guru profesional, dan meningkatkan kompetensi pedagogik serta literasi digital.[[1](https://kemendikdasmen.go.id/detail/rencana-strategis)]
+Program Pendidikan Profesi Guru (PPG) merupakan Rencana Strategis Kemendikdasmen Tahun 2025-2029 untuk memperkuat kualitas pendidik, memastikan ketersediaan guru profesional, dan meningkatkan kompetensi pedagogik serta literasi digital.[[1](https://kemendikdasmen.go.id/detail/rencana-strategis)]
 
 PPG bagi Guru Tertentu (Dalam Jabatan) bertujuan mewujudkan guru profesional, kompeten, dan sejahtera.
 
